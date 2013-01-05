@@ -1,0 +1,31 @@
+{
+  "name": "threedlibrary",
+  "version": "0.0.1",
+  "main": 
+  [
+    "./tdl/string.js",
+    "./tdl/primitives.js",
+    "./tdl/webgl.js",
+    "./tdl/textures.js",
+    "./tdl/fast.js",
+    "./tdl/math.js",
+    "./tdl/sync.js",
+    "./tdl/fps.js",
+    "./tdl/buffers.js",
+    "./tdl/models.js",
+    "./tdl/shader.js",
+    "./tdl/base.js",
+    "./tdl/io.js",
+    "./tdl/screenshot.js",
+    "./tdl/programs.js",
+    "./tdl/quaternions.js",
+    "./tdl/error.jpg",
+    "./tdl/framebuffers.js",
+    "./tdl/loader.js",
+    "./tdl/fullscreen.js",
+    "./tdl/clock.js",
+    "./tdl/misc.js",
+    "./tdl/log.js",
+    "./tdl/particles.js"
+  ]
+}
